@@ -137,18 +137,19 @@ int main() {
     std::cout << "\n";
   }
   else {
-
+/*
     std::cout << "vv = ";
     std::cout << "[0]=" << vv<0>::r << ",";
     std::cout << std::endl;
-
+*/
+/*
     std::cout << "vvv = ";
     std::cout << "[0]=" << vvv<0>::r << ",";
     std::cout << " [4]=" << vvv<4>::r << ",";
     std::cout << " [8]=" << vvv<8>::r << ",";
     std::cout << " [12]=" << vvv<12>::r << ",";
     std::cout << std::endl;
-
+*/
     std::cout << "gg = ";
     std::cout << gg<0>::r << ",";
     std::cout << gg<1>::r << ",";
