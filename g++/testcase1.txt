@@ -1,0 +1,28 @@
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -215,-215,81,-112,59,-128,-26,-1,-11,-30,158,110,-117,61,114,-133
+bnrPu1KX4OPhICCF
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -65,-175,88,-122,-6,-136,1,-12,-36,1,101,130,-161,60,152,-136
+Ac6qReOvzSGEbK52
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -5,-202,75,-218,-75,-236,-23,-2,-19,17,-34,9,-92,-128,123,-130
+Y3fukf2nKo0UBZZf
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = 6,-170,140,-159,-5,-115,-28,25,40,-101,3,140,-98,-86,-14,-76
+Rfv6uq4HROgcfgi6
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = 6,-134,-46,-170,-135,-35,117,-77,147,-12,55,43,-169,-45,23,-36
+XitzCAWYYDXq0AfU
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -83,-51,92,-34,77,-24,75,-28,76,-50,32,14,-147,-65,13,-85
+N93z0doVEPNzI4gb
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -222,-112,-34,-30,-115,-112,108,129,122,30,-25,-51,-205,-15,95,18
+XlRRmvpkSCEbwXCr
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -222,-112,-34,-30,-115,-112,108,129,122,30,-25,-51,-205,-15,95,18
+vYG5yrEbHA2NKtz6
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
+gg = -222,-112,-34,-30,-115,-112,108,129,122,30,-25,-51,-205,-15,95,18
+rDEcKTZi0hwRD7aT
+g++ -std=c++0x solveme_alt.cpp -ftemplate-depth-1000000 -o solveme
