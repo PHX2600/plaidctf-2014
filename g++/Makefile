@@ -1,4 +1,4 @@
-KEY:=123456789012345
+KEY:=ffffffffffffffff
 .PHONY: all key.h
 
 all: solveme_alt.cpp key.h
