@@ -1,0 +1,12 @@
+O:6:"Lyrics":2:{s:9:"*lyrics";s:13:"ddddddddddddd";s:7:"*song";O:4:"Song":4:{s:9:"*logger";O:6:"Logger":1:{s:12:"*logwriter";O:14:"LogWriter_File":2:{s:11:"*filename";s:10:"song_views";s:9:"*format";O:13:"LogFileFormat":2:{s:10:"*filters";a:1:{i:0;O:12:"OutputFilter":2:{s:15:"*matchPattern";s:19:"/\[i\](.*)\[\/i\]/i";s:14:"*replacement";s:9:"\1";}}s:7:"*endl";s:1:" ";}}}s:7:"*name";s:12:"aaaaaaaaaaaa";s:8:"*group";s:16:"bbbbbbbbbbbbbbbb";s:6:"*url";s:17:"ccccccccccccccccc";}}array(1) { [0]=> int(8) } NULL
+
+
+Tzo2OiJMeXJpY3MiOjI6e3M6OToiKmx5cmljcyI7czoxMzoiZGRkZGRkZGRkZGRkZCI7czo3OiIq
+c29uZyI7Tzo0OiJTb25nIjo0OntzOjk6Iipsb2dnZXIiO086NjoiTG9nZ2VyIjoxOntzOjEyOiIq
+bG9nd3JpdGVyIjtPOjE0OiJMb2dXcml0ZXJfRmlsZSI6Mjp7czoxMToiKmZpbGVuYW1lIjtzOjEw
+OiJzb25nX3ZpZXdzIjtzOjk6Iipmb3JtYXQiO086MTM6IkxvZ0ZpbGVGb3JtYXQiOjI6e3M6MTA6
+IipmaWx0ZXJzIjthOjE6e2k6MDtPOjEyOiJPdXRwdXRGaWx0ZXIiOjI6e3M6MTU6IiptYXRjaFBh
+dHRlcm4iO3M6MTk6Ii9cW2lcXSguKilcW1wvaVxdL2kiO3M6MTQ6IipyZXBsYWNlbWVudCI7czo5
+OiJcMSI7fX1zOjc6IiplbmRsIjtzOjE6IiAiO319fXM6NzoiKm5hbWUiO3M6MTI6ImFhYWFhYWFh
+YWFhYSI7czo4OiIqZ3JvdXAiO3M6MTY6ImJiYmJiYmJiYmJiYmJiYmIiO3M6NjoiKnVybCI7czox
+NzoiY2NjY2NjY2NjY2NjY2NjY2MiO319YXJyYXkoMSkgeyBbMF09PiBpbnQoOCkgfSBOVUxM
