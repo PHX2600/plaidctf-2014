@@ -139,41 +139,14 @@ int main() {
   else {
 
     std::cout << "vv = ";
-    std::cout << vv<0>::r << ",";
-    std::cout << vv<1>::r << ",";
-    std::cout << vv<2>::r << ",";
-    std::cout << vv<3>::r << ",";
-    std::cout << vv<4>::r << ",";
-    std::cout << vv<5>::r << ",";
-    std::cout << vv<6>::r << ",";
-    std::cout << vv<7>::r << ",";
-    std::cout << vv<8>::r << ",";
-    std::cout << vv<9>::r << ",";
-    std::cout << vv<10>::r << ",";
-    std::cout << vv<11>::r << ",";
-    std::cout << vv<12>::r << ",";
-    std::cout << vv<13>::r << ",";
-    std::cout << vv<14>::r << ",";
-    std::cout << vv<15>::r;
+    std::cout << "[0]=" << vv<0>::r << ",";
     std::cout << std::endl;
 
     std::cout << "vvv = ";
-    std::cout << vvv<0>::r << ",";
-    std::cout << vvv<1>::r << ",";
-    std::cout << vvv<2>::r << ",";
-    std::cout << vvv<3>::r << ",";
-    std::cout << vvv<4>::r << ",";
-    std::cout << vvv<5>::r << ",";
-    std::cout << vvv<6>::r << ",";
-    std::cout << vvv<7>::r << ",";
-    std::cout << vvv<8>::r << ",";
-    std::cout << vvv<9>::r << ",";
-    std::cout << vvv<10>::r << ",";
-    std::cout << vvv<11>::r << ",";
-    std::cout << vvv<12>::r << ",";
-    std::cout << vvv<13>::r << ",";
-    std::cout << vvv<14>::r << ",";
-    std::cout << vvv<15>::r;
+    std::cout << "[0]=" << vvv<0>::r << ",";
+    std::cout << " [4]=" << vvv<4>::r << ",";
+    std::cout << " [8]=" << vvv<8>::r << ",";
+    std::cout << " [12]=" << vvv<12>::r << ",";
     std::cout << std::endl;
 
     std::cout << "gg = ";
@@ -194,6 +167,7 @@ int main() {
     std::cout << gg<14>::r << ",";
     std::cout << gg<15>::r;
     std::cout << std::endl;
+
     std::cout << "Wrong\n";
   }
   return 0;
