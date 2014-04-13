@@ -1,3 +1,9 @@
-O:6:"Lyrics":2:{s:9:"*lyrics";s:18:"dddddddddddddddddd";s:7:"*song";O:4:"Song":4:{s:9:"*logger";O:6:"Logger":1:{s:12:"*logwriter";O:14:"LogWriter_File":2:{s:11:"*filename";s:10:"song_views";s:9:"*format";O:13:"LogFileFormat":2:{s:10:"*filters";a:1:{i:0;O:12:"OutputFilter":2:{s:15:"*matchPattern";s:19:"/\[i\](.*)\[\/i\]/i";s:14:"*replacement";s:9:"\1";}}s:7:"*endl";s:1:" ";}}}s:7:"*name";s:8:"aaaaaaaa";s:8:"*group";s:16:"bbbbbbbbbbbbbbbb";s:6:"*url";s:17:"ccccccccccccccccc";}}
-
-Tzo2OiJMeXJpY3MiOjI6e3M6OToiACoAbHzOjE2OiJkZGRkZGRkZGRkZGRkZGRkIjtzOjc6IgAqAHNvbmciO086NDoiU29uZyI6NDp7czo5OiIAKgBsb2dnZXIiO086NjoiTG9nZ2VyIjoxOntzOjEyOiIAKgBsb2d3cml0ZXIiO086MTQ6IkxvZ1dyaXRlcl9GaWxlIjoyOntzOjExOiIAKgBmaWxlbmFtZSI7czoxMDoic29uZ192aWV3cyI7czo5OiIAKgBmb3JtYXQiO086MTM6IkxvZ0ZpbGVGb3JtYXQiOjI6e3M6MTA6IgAqAGZpbHRlcnMiO2E6MTp7aTowO086MTI6Ik91dHB1dEZpbHRlciI6Mjp7czoxNToiACoAbWF0Y2hQYXR0ZXJuIjtzOjE5OiIvXFtpXF0oLiopXFtcL2lcXS9pIjtzOjE0OiIAKgByZXBsYWNlbWVudCI7czo5OiI8aT5cMTwvaT4iO319czo3OiIAKgBlbmRsIjtzOjE6IgoiO319fXM6NzoiACoAbmFtZSI7czo4OiJhYWFhYWFhYSI7czo4OiIAKgBncm91cCI7czoxNjoiYmJiYmJiYmJiYmJiYmJiYiI7czo2OiIAKgB1cmwiO3M6MTc6ImNjY2NjY2NjY2NjY2NjY2NjIjt9fQ==
+Tzo2OiJMeXJpY3MiOjI6e3M6OToiACoAbHlyaWNzIjtzOjM6ImFzZCI7czo0OiJzb25nIjtPOjQ6
+IlNvbmciOjQ6e3M6OToiACoAbG9nZ2VyIjtPOjY6IkxvZ2dlciI6MTp7czoxMjoiACoAbG9nd3Jp
+dGVyIjtPOjE0OiJMb2dXcml0ZXJfRmlsZSI6Mjp7czoxMToiACoAZmlsZW5hbWUiO3M6MTA6Ii4u
+L2FhYS5waHAiO3M6OToiACoAZm9ybWF0IjtPOjEzOiJMb2dGaWxlRm9ybWF0IjoyOntzOjEwOiIA
+KgBmaWx0ZXJzIjthOjE6e2k6MDtPOjEyOiJPdXRwdXRGaWx0ZXIiOjI6e3M6MTU6IgAqAG1hdGNo
+UGF0dGVybiI7czoxOToiL1xbaVxdKC4qKVxbXC9pXF0vaSI7czoxNDoiACoAcmVwbGFjZW1lbnQi
+O3M6OToiPGk+XDE8L2k+Ijt9fXM6NzoiACoAZW5kbCI7czoxOiIKIjt9fX1zOjc6IgAqAG5hbWUi
+O3M6NjoiYXNkYXNkIjtzOjg6IgAqAGdyb3VwIjtzOjQ1OiI8P3BocCBwaHBpbmZvKCk7ID8+IGFh
+YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEiO3M6NjoiACoAdXJsIjtzOjY6ImFzZGFzZCI7fX0=
